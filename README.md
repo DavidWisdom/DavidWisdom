@@ -1,13 +1,22 @@
 ![](assets/Bottom_up.svg)
 
+
 <!--   my-icons -->
+
 <p align="center">
+
     <a href="https://github.com/DavidWisdom/DavidWisdom"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+
     <a href="https://github.com/DavidWisdom/DavidWisdom/graphs/contributors"><img src="https://img.shields.io/github/contributors/DavidWisdom/DavidWisdom?color=blue"></a>
+
     <a href="https://github.com/DavidWisdom/DavidWisdom/stargazers"><img src="https://img.shields.io/github/stars/DavidWisdom/DavidWisdom.svg?logo=github"></a>
+
     <a href="https://github.com/DavidWisdom/DavidWisdom/network/members"><img src="https://img.shields.io/github/forks/DavidWisdom/DavidWisdom.svg?color=blue&logo=github"></a>
+
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DavidWisdom.DavidWisdom" alt="visitors"/>   
+
 </p>
 
 
@@ -49,8 +58,10 @@
 <img src="https://profile-counter.glitch.me/DavidWisdom/count.svg">  
 
 
-## Star History
+[//]: # (## Star History)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=DavidWisdom/DavidWisdom&type=Date)](https://star-history.com/#DavidWisdom/DavidWisdom&Date)
+[//]: # ()
+[//]: # ([![Star History Chart]&#40;https://api.star-history.com/svg?repos=DavidWisdom/DavidWisdom&type=Date&#41;]&#40;https://star-history.com/#DavidWisdom/DavidWisdom&Date&#41;)
 
-
+[//]: # ()
+[//]: # ()

@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidWisdom&show_icons=true&include_all_commits=true" alt="DavidWisdom's github stats" style="width: 45%; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWisdom&layout=compact" alt="Most Used Languages" style="width: 34%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidWisdom&show_icons=true&include_all_commits=true" alt="DavidWisdom's github stats" style="width: 56%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWisdom&layout=compact" alt="Most Used Languages" style="width: 43%; display: inline-block;" />
 </p>
 
 

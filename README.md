@@ -24,10 +24,8 @@ Hello! I'm a software engineer with a passion for programming languages, distrib
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWisdom&layout=compact" alt="Most Used Languages" style="width: 43%; display: inline-block;" />
 </p>
 
-
 ## 💬 Get in Touch 
 
 Feel free to reach out if you're interested in collaborating on a project or just want to discuss the latest in tech!
 
 Email: davidwisdom@foxmail.com
-

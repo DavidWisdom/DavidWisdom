@@ -34,18 +34,10 @@
 
 
 
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![DavidWisdom's github stats](https://github-readme-stats.vercel.app/api?username=DavidWisdom&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWisdom&theme=radical&layout=compact) |
 
 
-
-
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/DavidWisdom/count.svg">  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidWisdom&show_icons=true&include_all_commits=true" alt="DavidWisdom's github stats" />
+</p>
 
 

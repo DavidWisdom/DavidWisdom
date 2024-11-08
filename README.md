@@ -11,14 +11,14 @@ Hello! I'm a software engineer with a passion for programming languages, distrib
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-3776AB?style=flat&logo=MySQL&logoColor=white)&nbsp; ![Redis](https://img.shields.io/badge/-Redis-3776AB?style=flat&logo=Redis&logoColor=white)&nbsp;![Mongodb Badge](https://img.shields.io/badge/-Mongodb-3776AB?style=flat&logo=Mongodb&logoColor=white)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **Tools**             | ![CMake Badge](https://img.shields.io/badge/-CMake-3776AB?style=flat&logo=CMake&logoColor=white)&nbsp;![GDB](https://img.shields.io/badge/-GoogleTest-3776AB?style=flat&logo=Google&logoColor=white)&nbsp;![Docker Badge](https://img.shields.io/badge/-Docker-3776AB?style=flat&logo=Docker&logoColor=white)&nbsp;![Numpy](https://img.shields.io/badge/-Numpy-3776AB?style=flat&logo=Numpy&logoColor=white)&nbsp; ![Pytorch](https://img.shields.io/badge/-Pytorch-3776AB?style=flat&logo=Pytorch&logoColor=white)&nbsp;                                                                                         |
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidWisdom&show_icons=true&include_all_commits=true" alt="DavidWisdom's github stats" style="width: 56%; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWisdom&layout=compact" alt="Most Used Languages" style="width: 43%; display: inline-block;" />
-</p>
-
 ## Get in Touch 💬
 
 Feel free to reach out if you're interested in collaborating on a project or just want to discuss the latest in tech!
 
 Email: davidwisdom@foxmail.com
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidWisdom&show_icons=true&include_all_commits=true" alt="DavidWisdom's github stats" style="width: 56%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidWisdom&layout=compact" alt="Most Used Languages" style="width: 43%; display: inline-block;" />
+</p>

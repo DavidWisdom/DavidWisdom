@@ -48,4 +48,5 @@ I am also a competitive AI researcher. I have achieved championships and top-tie
 Feel free to reach out if you're interested in collaborating on a project or just want to discuss the latest in tech!
 <br>如果您有项目合作意向，或想探讨前沿技术，欢迎随时联系！
 
-📧 **Email**: davidwisdom@foxmail.com
+**My name**: Biaowei Lin
+📧 **Email**: linbw5@mail2.sysu.edu.cn
